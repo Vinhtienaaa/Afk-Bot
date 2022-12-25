@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "Darkpe.aternos.me",
     "port": 25565,
-    "version": "1.17.1"
+    "version": "1.19.1"
   },
 
   "position": {
